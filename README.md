@@ -9,7 +9,7 @@ Explore the interactive Streamlit dashboard:
 ## Projects
 
 **MultiSport Elo Lab**  
-https://github.com/elevation-edge-sports-data/multisport-elo-lab
+https://multisport-elo-lab.streamlit.app/
 
 **NHL Playoff Elimination Tracker**  
 https://elevation-edge-sports-data.github.io/nhl-playoff-elimination-tracker/
