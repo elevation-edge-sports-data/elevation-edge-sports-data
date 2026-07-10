@@ -1,11 +1,5 @@
 Sports analytics and predictive modeling using Elo systems, Monte Carlo simulation, and interactive visualization.
 
-## Live Dashboard
-
-Explore the interactive Streamlit dashboard:
-
-[Launch Dashboard](https://multisport-elo-lab.streamlit.app/)
-
 ## Projects
 
 **MultiSport Elo Lab**  
