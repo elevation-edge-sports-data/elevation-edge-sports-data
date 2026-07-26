@@ -1,4 +1,4 @@
-Building Elo rating systems with Monte Carlo simulation, chronologically validated win-probability models, and interactive analytics dashboards for NFL, NHL, and NBA.
+I build Elo rating systems with Monte Carlo simulation, chronologically validated win-probability models, and interactive analytics dashboards for NHL, NBA, and NFL.
 
 ## Projects
 
