@@ -3,7 +3,7 @@ I build Elo rating systems with Monte Carlo simulation, chronologically validate
 ## Projects
 
 **[MultiSport Elo Lab](https://github.com/elevation-edge-sports-data/multisport-elo-lab)**  
-Modular Elo + Monte Carlo framework for **NHL · NBA · NFL** with configurable adjustments (including Elevation Edge), multi-season support, parameter optimization, historical backtesting, and an interactive Streamlit dashboard.  
+Modular Elo + Monte Carlo framework for NHL · NBA · NFL with configurable adjustments (including Elevation Edge), multi-season support, parameter optimization, historical backtesting, and an interactive Streamlit dashboard.  
 
 **[NBA Win Probability](https://github.com/elevation-edge-sports-data/nba-win-probability)**  
 NBA home-win probability models (Log5, logistic regression, RF, XGBoost) evaluated with chronological validation and calibration diagnostics.
